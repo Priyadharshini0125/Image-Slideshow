@@ -49,7 +49,7 @@ git clone https://github.com/your-username/image-slider.git
 
 ## 🖼️ Screenshot
 
-![Slider Screenshot](./images/car1.jpeg) 
+![Image](https://github.com/user-attachments/assets/faf72fa0-4c29-41e4-8aa6-b7ab26322321)
 
 
 
