@@ -14,7 +14,7 @@ A simple, responsive image slider built using **HTML**, **CSS**, and **JavaScrip
 
 ## 💻 Live Preview
 
-[Live Demo](#) 
+Live Demo : https://priyadharshini0125.github.io/Image-Slideshow/
 
 ## 🛠️ How It Works
 
